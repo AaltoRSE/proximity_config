@@ -65,7 +65,7 @@
     },
     {
       "setting": "enable_config_update",
-      "value": false
+      "value": true
     },
     {
       "setting": "status_applications",
