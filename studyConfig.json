@@ -213,7 +213,7 @@
     },
     {
       "setting": "status_gyroscope",
-      "value": false
+      "value": true
     },
     {
       "setting": "frequency_gyroscope",
@@ -225,7 +225,7 @@
     },
     {
       "setting": "frequency_gyroscope_enforce",
-      "value": false
+      "value": true
     },
     {
       "setting": "status_light",
@@ -245,7 +245,7 @@
     },
     {
       "setting": "status_linear_accelerometer",
-      "value": false
+      "value": true
     },
     {
       "setting": "frequency_linear_accelerometer",
@@ -257,7 +257,7 @@
     },
     {
       "setting": "frequency_linear_accelerometer_enforce",
-      "value": false
+      "value": true
     },
     {
       "setting": "location",
@@ -349,7 +349,7 @@
     },
     {
       "setting": "status_rotation",
-      "value": false
+      "value": true
     },
     {
       "setting": "frequency_rotation",
@@ -361,7 +361,7 @@
     },
     {
       "setting": "frequency_rotation_enforce",
-      "value": false
+      "value": true
     },
     {
       "setting": "status_temperature",
