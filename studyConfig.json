@@ -157,7 +157,7 @@
     },
     {
       "setting": "status_accelerometer",
-      "value": true
+      "value": false
     },
     {
       "setting": "frequency_accelerometer",
@@ -213,7 +213,7 @@
     },
     {
       "setting": "status_gyroscope",
-      "value": true
+      "value": false
     },
     {
       "setting": "frequency_gyroscope",
