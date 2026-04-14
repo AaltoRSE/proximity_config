@@ -349,7 +349,7 @@
     },
     {
       "setting": "status_rotation",
-      "value": true
+      "value": false
     },
     {
       "setting": "frequency_rotation",
@@ -449,7 +449,7 @@
     },
     {
       "setting": "status_esm",
-      "value": true
+      "value": false
     },
     {
       "setting": "status_webservice",
